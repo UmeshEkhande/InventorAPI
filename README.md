@@ -1,4 +1,3 @@
-[7:00 PM] Ram Agrawal
 # Inventor API Project
  
 This repository hosts an Inventor API project tailored to interact with Autodesk Inventor software. The primary objective of this project is to harness the capabilities of the Inventor API to enhance functionalities, streamline workflows, and offer custom solutions within the Autodesk Inventor environment.
