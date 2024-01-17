@@ -55,9 +55,7 @@ One noteworthy feature of this project is the ability to remove a selected part 
  
 ## Screenshots
 
-![Screenshot 1](https://github.com/RamCCTech/InventorAPI/assets/149322355/39984ca7-e754-4a72-9b2c-ce458c6daf20)
+![Screenshot 1](https://github.com/UmeshEkhande/InventorAPI/blob/main/output1.png)
 
-![Screenshot 2](https://github.com/RamCCTech/InventorAPI/assets/149322355/98154dd1-56d0-4f4d-bb27-33fa6007adcf)
+![Screenshot 2](https://github.com/UmeshEkhande/InventorAPI/blob/main/output2.png)
 
-GitHub - RamCCTech/InventorAPI
-Contribute to RamCCTech/InventorAPI development by creating an account on GitHub.
